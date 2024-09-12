@@ -1,2 +1,2 @@
 # SistemaGestionTareas
-Aplicación web básica para gestion una lista de tareas
+Aplicación web básica para la gestion de una lista de tareas
